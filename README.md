@@ -6,7 +6,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-``
+```
 ## Algorithm
 1.Import the necessary packages using import statement.
 2.Read the given csv file using read_csv() method and print the number of contents to be displayed using df.head().
@@ -21,6 +21,7 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Shaik sameer
 RegisterNumber:  212221240051
 */
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("Mall_Customers.csv")
